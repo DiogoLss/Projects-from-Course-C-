@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp", "CursoCSharp\CursoCSharp.csproj", "{ABEA019E-66CE-449F-8A2A-0EF7DF6C5AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{6FFBCA6D-C248-45E0-B1F2-6945329FE070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABEA019E-66CE-449F-8A2A-0EF7DF6C5AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABEA019E-66CE-449F-8A2A-0EF7DF6C5AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABEA019E-66CE-449F-8A2A-0EF7DF6C5AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABEA019E-66CE-449F-8A2A-0EF7DF6C5AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFBCA6D-C248-45E0-B1F2-6945329FE070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFBCA6D-C248-45E0-B1F2-6945329FE070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFBCA6D-C248-45E0-B1F2-6945329FE070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFBCA6D-C248-45E0-B1F2-6945329FE070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5327471-11C6-4F03-AEF8-1966AB09B169}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\Course2.exe
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\Course2.deps.json
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\Course2.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\Course2.dll
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\ref\Course2.dll
+C:\Users\JONATHAN\source\repos\Course2\Course2\bin\Debug\net6.0\Course2.pdb
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.dll
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\ref\Course2.dll
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.pdb
+C:\Users\JONATHAN\source\repos\Course2\Course2\obj\Debug\net6.0\Course2.genruntimeconfig.cache

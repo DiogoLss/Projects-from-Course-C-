@@ -1,0 +1,12 @@
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\bin\Debug\net6.0\Encapsulamento.deps.json
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\bin\Debug\net6.0\ref\Encapsulamento.dll
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.dll
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\ref\Encapsulamento.dll
+C:\Users\JONATHAN\source\repos\CursoCSharp\Encapsulamento\obj\Debug\net6.0\Encapsulamento.pdb

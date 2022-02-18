@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abea019e-66ce-449f-8a2a-0ef7df6c5ab9": {
+      "ProjectGuid": "abea019e-66ce-449f-8a2a-0ef7df6c5ab9",
+      "DisplayName": "CursoCSharp",
+      "ColorIndex": 0
+    },
+    "011fd787-d502-4103-bcfc-b3a8c64f493b": {
+      "ProjectGuid": "011fd787-d502-4103-bcfc-b3a8c64f493b",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 1
+    },
+    "6ffbca6d-c248-45e0-b1f2-6945329fe070": {
+      "ProjectGuid": "6ffbca6d-c248-45e0-b1f2-6945329fe070",
+      "DisplayName": "Encapsulamento",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
