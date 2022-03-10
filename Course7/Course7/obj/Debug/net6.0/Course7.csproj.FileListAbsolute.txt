@@ -1,0 +1,15 @@
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\Course7.exe
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\Course7.deps.json
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\Course7.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\Course7.dll
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\ref\Course7.dll
+C:\Users\JONATHAN\source\repos\Course7\Course7\bin\Debug\net6.0\Course7.pdb
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.dll
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\ref\Course7.dll
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.pdb
+C:\Users\JONATHAN\source\repos\Course7\Course7\obj\Debug\net6.0\Course7.genruntimeconfig.cache
