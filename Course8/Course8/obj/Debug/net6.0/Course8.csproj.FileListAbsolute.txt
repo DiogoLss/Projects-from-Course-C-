@@ -1,0 +1,15 @@
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\Course8.exe
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\Course8.deps.json
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\Course8.runtimeconfig.json
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\Course8.dll
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\ref\Course8.dll
+C:\Users\JONATHAN\source\repos\Course8\Course8\bin\Debug\net6.0\Course8.pdb
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.csproj.AssemblyReference.cache
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.AssemblyInfoInputs.cache
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.AssemblyInfo.cs
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.csproj.CoreCompileInputs.cache
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.dll
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\ref\Course8.dll
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.pdb
+C:\Users\JONATHAN\source\repos\Course8\Course8\obj\Debug\net6.0\Course8.genruntimeconfig.cache
